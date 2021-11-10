@@ -28,7 +28,7 @@ npm install vuelidate --save
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).    
 
-```    
+ 
 ### Stack:    
 :green_circle: VUE (ECMA6)
 :green_circle: CSS3
