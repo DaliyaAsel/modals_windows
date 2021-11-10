@@ -20,5 +20,17 @@ npm run build
 npm run lint
 ```
 
+### vuelidate
+```
+npm install vuelidate --save
+```
+
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/).    
+
+```    
+### Stack:    
+:green_circle: VUE (ECMA6)
+:green_circle: CSS3
+:green_circle: HTML5
+:green_circle: Vuelidate
