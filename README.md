@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-### vuelidate
+### Vuelidate
 ```
 npm install vuelidate --save
 ```
